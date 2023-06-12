@@ -1,0 +1,3 @@
+﻿using TouchMySquirly;
+
+Main.Run();

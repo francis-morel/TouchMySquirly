@@ -1,0 +1,15 @@
+C:\Users\franc\code\cs\TouchMySquirly\bin\Debug\net7.0\TouchMySquirly.exe
+C:\Users\franc\code\cs\TouchMySquirly\bin\Debug\net7.0\TouchMySquirly.deps.json
+C:\Users\franc\code\cs\TouchMySquirly\bin\Debug\net7.0\TouchMySquirly.runtimeconfig.json
+C:\Users\franc\code\cs\TouchMySquirly\bin\Debug\net7.0\TouchMySquirly.dll
+C:\Users\franc\code\cs\TouchMySquirly\bin\Debug\net7.0\TouchMySquirly.pdb
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.csproj.AssemblyReference.cache
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.AssemblyInfoInputs.cache
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.AssemblyInfo.cs
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.csproj.CoreCompileInputs.cache
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.dll
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\refint\TouchMySquirly.dll
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.pdb
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\TouchMySquirly.genruntimeconfig.cache
+C:\Users\franc\code\cs\TouchMySquirly\obj\Debug\net7.0\ref\TouchMySquirly.dll
